@@ -1,5 +1,5 @@
-# monster-slayer
 
+## 	:desktop_computer:monster-slayer-Game !
 ## Project setup
 ```
 npm install
